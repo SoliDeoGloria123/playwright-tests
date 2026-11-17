@@ -52,7 +52,6 @@ tests/api/      # Pruebas HTTP contra JSONPlaceholder
 playwright.config.ts
 ```
 
-GitHub Actions instala Chromium y publica el reporte HTML como artefacto.
 
 ## English
 
